@@ -4,31 +4,31 @@ Hash: SHA256
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Wed, 21 Oct 2026 17:34:52 +0000
+Date: Wed, 21 Oct 2026 17:49:03 +0000
 Description: SpinCAM updates (stable)
 Label: SpinCAM
 Origin: SpinCAM
 Suite: stable
 MD5Sum:
- 86ce1cc5f21d3d73d29b9540b4082fb6              176 Release
- b5f18f286d8e25c776e38da5c61f95a2             1916 main/binary-amd64/Packages
- cb694b20c86344b31ba52906091817ad              833 main/binary-amd64/Packages.gz
+ f872ae5abc4cd4e0a091316db9adaaca              176 Release
+ ccee24387409c00689b03bb1a5620417             2874 main/binary-amd64/Packages
+ b9213649e61a76ccd0a8e16275944c1c             1023 main/binary-amd64/Packages.gz
 SHA1:
- 48da467787ff1e3c68b735f47ec8eefc512cba76              176 Release
- d856873826517cd312a3157e8aea353659bf1715             1916 main/binary-amd64/Packages
- fbead43a489c84bea74370e8829f5313d2fda97b              833 main/binary-amd64/Packages.gz
+ 6de13680e2ce88ec50e0e7e7b8ba03f076f687c1              176 Release
+ f259b4e1c1dd5834cb4d28ec766f1cef02d3cc09             2874 main/binary-amd64/Packages
+ 1ce10947df7a4e77601fb1e56200a571f1dd2da8             1023 main/binary-amd64/Packages.gz
 SHA256:
- 3353851d69166793b4d85632107a688fdf9651a64899cccbc57a04fe27080383              176 Release
- a8f6e284645ff55696857e6bd35b106e69a60243226fe1dcece621605f74f4e3             1916 main/binary-amd64/Packages
- a62e856fecba7246bb86e3a26531ce9026f1fe6323bd66fc1cb2dc3063b1c92b              833 main/binary-amd64/Packages.gz
+ b3393b6204402cd0fedb2e829bebb42e83cb121c25b13363aed09ddf1f0f3f8a              176 Release
+ a5c312308288692b9860b73171b7842b7ed4a5016d9a14c1875379df66b8c668             2874 main/binary-amd64/Packages
+ d0b06eda0dc95db727c05584c95e35b090b19fdce153f739041e865a416f0b10             1023 main/binary-amd64/Packages.gz
 SHA512:
- 6b19fa2adef1f9a50838c6c1b8d9c5325e43355f505f268b73a1eeba8f830eed4c7cd995d6bbaa86d3a566d6646137fafe4b2b675b02eebbc96e80382c73f920              176 Release
- 48fbe4bf88b59c25dacfe80e09240b273dbcf7aab1a1907c2e3cc543f418eefe871a6ea3fe68c1d704ff54cb022770a0b05a725f39a215a8808d2d05c6cff186             1916 main/binary-amd64/Packages
- 881b3773b9e8da7d32993a342292d81c6e013f4eccbb2eec36b15dc6a8ea0c0e8729872a749691694a962f59e0fe9ca59521ba5938f9768f70bf9b8d17c90d4c              833 main/binary-amd64/Packages.gz
+ e07e01a8ca37348f5af28ea963cfcda9fe5d6816739f71dac34af072cb61f3fb8df7a177b722c05582439d5de46e8b9ec9690c1791b40432bfebe05d91ee3d67              176 Release
+ 11dc4fe2cffada1eb71bf5ebf51166b0bc79152d274da2bac590d8be510ea6f9b0e3a33454679b92d8f20f8bcd510a471fe3a881cfbb648e8bc22825a4bba0c0             2874 main/binary-amd64/Packages
+ fea5fc292c25a855c3f4822dd0320e217953fda29493cb869f94cd1eb2ae5206f3dfd41899bf43b9ef571442d1c56fcc4de243f0ec7051718a7729b037d8198c             1023 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQspQ+gogFBN0TsbUN+3vW41hEcuAUCatj3vAAKCRB+3vW41hEc
-uCMaAP9G+bEKxnwYtgmbZqNJjm72MFr/MZSDOLGbYyGRhm6TFgEAg715ubmuTRc+
-3GbA3Y2FdxfTtsVx9czUcC5JNUcX0AM=
-=UP3X
+iHUEARYIAB0WIQQspQ+gogFBN0TsbUN+3vW41hEcuAUCatj7DwAKCRB+3vW41hEc
+uIzBAP4uSl7ulCKN0zsxGRnngWvQhqSIIiCpW5I4MaRQKHI6ZAEA9DpphnEDpUsv
+6Y3WLW0FGlSkEc2cYF/ybKBe/W8Svg4=
+=BPPp
 -----END PGP SIGNATURE-----

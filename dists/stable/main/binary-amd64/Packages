@@ -23,14 +23,33 @@ Version: 0.9.1
 Priority: optional
 Section: science
 Maintainer: SpinCAM <spincam@localhost>
-Installed-Size: 2936
+Installed-Size: 2940
 Depends: libqt5widgets5 (>= 5.15), libqt5gui5 (>= 5.15), libqt5core5a (>= 5.15), libqt5network5 (>= 5.15), libqt5printsupport5 (>= 5.15), libgl1, libstdc++6 (>= 12), libc6 (>= 2.35)
 Filename: pool/stable/spincam_0.9.1_amd64.deb
-Size: 1083344
-MD5sum: b9e3dbd336d33dd0f0f0bd684f86d334
-SHA1: 4f23d319a88168890a53448075702bcb54460d50
-SHA256: c42c159bbbb5e7c96ff4e4089978a9e4da1d5d182918a6b50fab95dc6e0c834d
-SHA512: 31a9518140340a7a3d4959e695f6a2512f4b86a3897123b15cf437a254edf87c74a3f8b0e65fbf2ef48887247d23ccb88581b7eb70c0609cb8f662dd11b3e93f
+Size: 1083964
+MD5sum: e3aa0f677d821aa55bf1372ed06dd392
+SHA1: 455d03056611d3e84f67b451fa73833ee6d6fba0
+SHA256: bf8f90b09fac2f26eaa0cc20a637f4e90c4c44d620563806db9ffeab1fa42157
+SHA512: 95bb594821b2f548a6495524e9acbf0b4287358b39272448f19c8560f0c50ea9a55e16903da93df313de03ab776db42210000320fed404f5033364b81fc6d852
+Description: CAM and machine control for CNC metal spinning
+ Draw or open the part's half profile, plan the roller passes, check them
+ in 2D and 3D, and run the G-code on a GRBL or FluidNC lathe over USB or
+ WiFi: the operator's stops, teach-in, macros and a run log.
+
+Package: spincam
+Architecture: amd64
+Version: 0.9.2
+Priority: optional
+Section: science
+Maintainer: SpinCAM <spincam@localhost>
+Installed-Size: 2940
+Depends: libqt5widgets5 (>= 5.15), libqt5gui5 (>= 5.15), libqt5core5a (>= 5.15), libqt5network5 (>= 5.15), libqt5printsupport5 (>= 5.15), libgl1, libstdc++6 (>= 12), libc6 (>= 2.35)
+Filename: pool/stable/spincam_0.9.2_amd64.deb
+Size: 1083544
+MD5sum: 2511386beafa7ff5b87fe53533d27e08
+SHA1: 965b1ff19d3b1a45e4e8af68b2c3105fb5717fee
+SHA256: 956538cf7ba0b4119c973ded10309b5f76cec02305cff1dcfb60e23b1775a4fc
+SHA512: 63a0d3d47812320d5a63bcf349a91ff7e78a09a8baa4f6d9719d3fa0b414f6d496cfc81f9db30dab819fe981564cb1083bb9cca61018ffb41e121fc8a177645d
 Description: CAM and machine control for CNC metal spinning
  Draw or open the part's half profile, plan the roller passes, check them
  in 2D and 3D, and run the G-code on a GRBL or FluidNC lathe over USB or
