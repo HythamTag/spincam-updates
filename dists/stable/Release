@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Wed, 21 Oct 2026 16:58:19 +0000
+Date: Wed, 21 Oct 2026 17:34:52 +0000
 Description: SpinCAM updates (stable)
 Label: SpinCAM
 Origin: SpinCAM
 Suite: stable
 MD5Sum:
- 9861d9313bb48cb230b58b6328e83744              176 Release
- 0cfac5cdff83a2dd8bbd5d5b45020651              958 main/binary-amd64/Packages
- 2be79de9d9dea50e6a93a13f872edbac              634 main/binary-amd64/Packages.gz
+ 86ce1cc5f21d3d73d29b9540b4082fb6              176 Release
+ b5f18f286d8e25c776e38da5c61f95a2             1916 main/binary-amd64/Packages
+ cb694b20c86344b31ba52906091817ad              833 main/binary-amd64/Packages.gz
 SHA1:
- d4484cd7e13e423d498355efd0e66dce666b6062              176 Release
- f355bf3ca78eff49a9a2e320eb22f6eafdc96bf6              958 main/binary-amd64/Packages
- 7e5a290833a9f1930e42bb764657000aeafef148              634 main/binary-amd64/Packages.gz
+ 48da467787ff1e3c68b735f47ec8eefc512cba76              176 Release
+ d856873826517cd312a3157e8aea353659bf1715             1916 main/binary-amd64/Packages
+ fbead43a489c84bea74370e8829f5313d2fda97b              833 main/binary-amd64/Packages.gz
 SHA256:
- 2cc232d51e5cc052c9a820547515ee3be31cc8d597701378bb2b371928ed80f1              176 Release
- bcef530bb27b77118d2afec59402f75f15c19ed85e8d959a147ad228ad6c32e9              958 main/binary-amd64/Packages
- 35411215f0cfa8aa7d56a1ed2821b8e1eb57fc73a18e2c99b4b4b04bc1db916f              634 main/binary-amd64/Packages.gz
+ 3353851d69166793b4d85632107a688fdf9651a64899cccbc57a04fe27080383              176 Release
+ a8f6e284645ff55696857e6bd35b106e69a60243226fe1dcece621605f74f4e3             1916 main/binary-amd64/Packages
+ a62e856fecba7246bb86e3a26531ce9026f1fe6323bd66fc1cb2dc3063b1c92b              833 main/binary-amd64/Packages.gz
 SHA512:
- a8cf3a1c4cf32a4b88ab7b17f42ef38988a20f8850ff5166cb0a7bed6f5e6008d086381bfc701505448bbd1a0ec1894c26e27069a8b820c6973bc4b4d4f23ba4              176 Release
- fc254d1fd98f07a5283f813795fc52ef4414976aaeb0525bd55557f48ecfac45f911fc107463425aee52e9df15b82e9cf39787539f4116ae5612bf8cdc11b27a              958 main/binary-amd64/Packages
- 8b721c2a0882a34ede0c6c0b8a1ae505d7c9f3da52a440a8c3f90c1771530f4372a3d3755bc28310f04a96e93f428965789e85ba0f6434b9f4b27a089a208428              634 main/binary-amd64/Packages.gz
+ 6b19fa2adef1f9a50838c6c1b8d9c5325e43355f505f268b73a1eeba8f830eed4c7cd995d6bbaa86d3a566d6646137fafe4b2b675b02eebbc96e80382c73f920              176 Release
+ 48fbe4bf88b59c25dacfe80e09240b273dbcf7aab1a1907c2e3cc543f418eefe871a6ea3fe68c1d704ff54cb022770a0b05a725f39a215a8808d2d05c6cff186             1916 main/binary-amd64/Packages
+ 881b3773b9e8da7d32993a342292d81c6e013f4eccbb2eec36b15dc6a8ea0c0e8729872a749691694a962f59e0fe9ca59521ba5938f9768f70bf9b8d17c90d4c              833 main/binary-amd64/Packages.gz

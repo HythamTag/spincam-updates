@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "channel": "stable",
-  "name": "SpinCAM 0.9.0",
+  "name": "SpinCAM 0.9.1",
   "date": "2026-10-21",
-  "notes": "SpinCAM 0.9.0 initial production release",
-  "sha256": "b69c6d9ba0723d7a2650e652aaee2debf1f1252face4d0b14f03ed8f6c830f4a",
+  "notes": "SpinCAM 0.9.1: Lathe control enhancements, feed optimizations, and in-app update system",
+  "sha256": "c42c159bbbb5e7c96ff4e4089978a9e4da1d5d182918a6b50fab95dc6e0c834d",
   "packages": {
-    "linux_deb": "pool/stable/spincam_0.9.0_amd64.deb"
+    "linux_deb": "pool/stable/spincam_0.9.1_amd64.deb"
   }
 }
