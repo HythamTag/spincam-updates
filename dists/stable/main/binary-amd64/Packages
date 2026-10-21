@@ -45,11 +45,11 @@ Maintainer: SpinCAM <spincam@localhost>
 Installed-Size: 2940
 Depends: libqt5widgets5 (>= 5.15), libqt5gui5 (>= 5.15), libqt5core5a (>= 5.15), libqt5network5 (>= 5.15), libqt5printsupport5 (>= 5.15), libgl1, libstdc++6 (>= 12), libc6 (>= 2.35)
 Filename: pool/stable/spincam_0.9.2_amd64.deb
-Size: 1083544
-MD5sum: 2511386beafa7ff5b87fe53533d27e08
-SHA1: 965b1ff19d3b1a45e4e8af68b2c3105fb5717fee
-SHA256: 956538cf7ba0b4119c973ded10309b5f76cec02305cff1dcfb60e23b1775a4fc
-SHA512: 63a0d3d47812320d5a63bcf349a91ff7e78a09a8baa4f6d9719d3fa0b414f6d496cfc81f9db30dab819fe981564cb1083bb9cca61018ffb41e121fc8a177645d
+Size: 1083540
+MD5sum: 32d5f1b4ca8196bd6182212a1ed7da63
+SHA1: a9526d3b10f8ec750f83346ce5133225b2cedd87
+SHA256: 77b5b9bf914a84b8056604882b9ecdaaf23f2898bad4eef6fccc1099000944c8
+SHA512: 6e89043e26f3acbbf392e58e4e1da1ef52e0deb59a46ce6725f3ae9c684b5fd417c99f0ad03fd1d9627d8153ff2bba0460e111ef1a717f5161faaf9d71ef1c34
 Description: CAM and machine control for CNC metal spinning
  Draw or open the part's half profile, plan the roller passes, check them
  in 2D and 3D, and run the G-code on a GRBL or FluidNC lathe over USB or
