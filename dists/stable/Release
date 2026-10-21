@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 21 Oct 2026 16:58:19 +0000
+Description: SpinCAM updates (stable)
+Label: SpinCAM
+Origin: SpinCAM
+Suite: stable
+MD5Sum:
+ 9861d9313bb48cb230b58b6328e83744              176 Release
+ 0cfac5cdff83a2dd8bbd5d5b45020651              958 main/binary-amd64/Packages
+ 2be79de9d9dea50e6a93a13f872edbac              634 main/binary-amd64/Packages.gz
+SHA1:
+ d4484cd7e13e423d498355efd0e66dce666b6062              176 Release
+ f355bf3ca78eff49a9a2e320eb22f6eafdc96bf6              958 main/binary-amd64/Packages
+ 7e5a290833a9f1930e42bb764657000aeafef148              634 main/binary-amd64/Packages.gz
+SHA256:
+ 2cc232d51e5cc052c9a820547515ee3be31cc8d597701378bb2b371928ed80f1              176 Release
+ bcef530bb27b77118d2afec59402f75f15c19ed85e8d959a147ad228ad6c32e9              958 main/binary-amd64/Packages
+ 35411215f0cfa8aa7d56a1ed2821b8e1eb57fc73a18e2c99b4b4b04bc1db916f              634 main/binary-amd64/Packages.gz
+SHA512:
+ a8cf3a1c4cf32a4b88ab7b17f42ef38988a20f8850ff5166cb0a7bed6f5e6008d086381bfc701505448bbd1a0ec1894c26e27069a8b820c6973bc4b4d4f23ba4              176 Release
+ fc254d1fd98f07a5283f813795fc52ef4414976aaeb0525bd55557f48ecfac45f911fc107463425aee52e9df15b82e9cf39787539f4116ae5612bf8cdc11b27a              958 main/binary-amd64/Packages
+ 8b721c2a0882a34ede0c6c0b8a1ae505d7c9f3da52a440a8c3f90c1771530f4372a3d3755bc28310f04a96e93f428965789e85ba0f6434b9f4b27a089a208428              634 main/binary-amd64/Packages.gz
