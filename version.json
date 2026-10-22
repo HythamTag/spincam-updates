@@ -1,11 +1,11 @@
 {
-  "version": "0.9.4",
+  "version": "0.9.5",
   "channel": "stable",
-  "name": "SpinCAM 0.9.4",
+  "name": "SpinCAM 0.9.5",
   "date": "2026-10-22",
-  "notes": "SpinCAM 0.9.4 release with latest stability, security hardening, and CAM planner improvements.",
-  "sha256": "26360daec7bea0edea3a9b8b7445c55269ef967e140ce7fc0c6100ba67ec342f",
+  "notes": "Complete GUI Architecture and Ergonomic Overhaul",
+  "sha256": "6c760575cfe4d12258a6b000373a38868be0314ccbc8e80e91a5a43f96343812",
   "packages": {
-    "linux_deb": "pool/stable/spincam_0.9.4_amd64.deb"
+    "linux_deb": "pool/stable/spincam_0.9.5_amd64.deb"
   }
 }
