@@ -74,3 +74,22 @@ Description: CAM and machine control for CNC metal spinning
  in 2D and 3D, and run the G-code on a GRBL or FluidNC lathe over USB or
  WiFi: the operator's stops, teach-in, macros and a run log.
 
+Package: spincam
+Architecture: amd64
+Version: 0.9.4
+Priority: optional
+Section: science
+Maintainer: SpinCAM <spincam@localhost>
+Installed-Size: 2988
+Depends: libqt5widgets5 (>= 5.15), libqt5gui5 (>= 5.15), libqt5core5a (>= 5.15), libqt5network5 (>= 5.15), libqt5printsupport5 (>= 5.15), libgl1, libstdc++6 (>= 12), libc6 (>= 2.35)
+Filename: pool/stable/spincam_0.9.4_amd64.deb
+Size: 1097404
+MD5sum: 42b707fe1a71396615a3658e009ecf72
+SHA1: 1b4e86e0ed62568a7b2baf5f174b0d0cbb89775e
+SHA256: 26360daec7bea0edea3a9b8b7445c55269ef967e140ce7fc0c6100ba67ec342f
+SHA512: e90970fb9a1ab9d8c2bfd7aa96be4f775ad42b35161a3ded2097fbdc9de140b108f50afe8c3fd24552dc439ef0e79c5ee523cd0baa8a3feb3980b9a801f3a42d
+Description: CAM and machine control for CNC metal spinning
+ Draw or open the part's half profile, plan the roller passes, check them
+ in 2D and 3D, and run the G-code on a GRBL or FluidNC lathe over USB or
+ WiFi: the operator's stops, teach-in, macros and a run log.
+
