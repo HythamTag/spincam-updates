@@ -1,11 +1,13 @@
 {
-  "version": "0.9.5",
+  "version": "0.9.11",
   "channel": "stable",
-  "name": "SpinCAM 0.9.5",
-  "date": "2026-10-22",
-  "notes": "Complete GUI Architecture and Ergonomic Overhaul",
-  "sha256": "6c760575cfe4d12258a6b000373a38868be0314ccbc8e80e91a5a43f96343812",
+  "name": "SpinCAM 0.9.11",
+  "date": "2026-10-29",
+  "notes": "Drawn cups: each pass lifts off where the metal meets the mandrel; neck swept or stretch by stretch (a choice); the simulation treats the cup as a cylinder. Collisions fixed (tailstock pad, flared mandrel ends, tight pockets). Long plans in the background: the window never freezes. Pass plan in clear groups; five steps. Thinning limit. Every G-code program checked against its plan for every controller.",
+  "sha256": "df5ec2afe4e786aaebb471a3ec5b51517645078812c0d49d2e1d915ea6c7b61d",
   "packages": {
-    "linux_deb": "pool/stable/spincam_0.9.5_amd64.deb"
-  }
+    "linux_deb": "pool/stable/spincam_0.9.11_amd64.deb",
+    "windows_exe": "pool/stable/windows/SpinCAM_Setup_0.9.11.exe"
+  },
+  "windows_sha256": "5d4cca4517e874e1d682d6c8fe2ecd2892c2a5f0fc73c9c3a633859e0953bc61"
 }
